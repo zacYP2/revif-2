@@ -2139,7 +2139,7 @@ input, select, textarea {
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		background: none;
 		border: solid 1px;
-		border-radius: 0;
+		border-radius: 32px;
 		color: inherit;
 		cursor: pointer;
 		display: inline-block;
@@ -2168,8 +2168,8 @@ input, select, textarea {
 		input[type="reset"].primary,
 		button.primary,
 		.button.primary {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #55b24d;
+			border-color: #55b24d;
 			color: #fff !important;
 		}
 
